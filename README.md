@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WieserJulian
 - 👀 I’m interested in C,C++.Python,Java,Javascript,Typescript,C#,Gaming,Programming,KI
-- 🌱 I’m currently learning neural Networking, C# , Unity
+- 🌱 I’m currently learning neural Networking, Java, Angular, Modular, Typescript
 - 📫 How to reach me DM or Discord
 
 <!---
